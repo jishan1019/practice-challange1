@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+}
+
+header{
+   background-image: url(../images/donation1.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 500px;
+}
+
+nav{
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+}
+
+/* Nav Bar design */
+
+.nav-title{
+    font-weight: 900;
+    font-size: 45px;
+    padding-bottom: 10px;
+}
+
+.nav-sub-titel{
+    font-weight: 400;
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+
+button{
+    background-color: orangered;
+    border: none;
+    padding: 10px 10px;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+/* Main Body Titel */
+
+.main-body-title{
+    text-align: center;
+    padding-top:30px;
+
+}
+
+.nav-sub-titel{
+    text-align: center;
+    padding: 10px 40px 15px 40px;
+}
+
+
+ul{
+    list-style-type:none;
+    display:flex;
+    justify-content: center;
+  
+}
+
+ul li{
+    display: list-item;
+    background: #26c000;
+    border-radius: 5px;
+    padding: 23px 44px;
+    color: white;
+    margin: 0 3px;
+}
+
+.input{
+    display:flex;
+    justify-content: center;
+    padding-top: 40px;
+    
+}
+
+input{
+    border: none;
+    text-align: center;
+    font-size: 25px
+}
+
+.button-donate{
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
+
+/* Service */
+
+.sub-body-title{
+    text-align: center;
+    padding: 30px 20px 10px 20px;
+    display: flex;
+}
+
+.sub-body-paragraph{
+    text-align: left;
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+    margin: 5px;
+    padding: 20px;
+}
+
+.sub-body-titel-pragraph{
+    padding-bottom: 20px;
+}
+
+/* Image Body Style */
+
+.image-body-text{
+    text-align: center;
+    display: flex;
+}
+
+.image-text{
+    margin: 60px;
+    text-align: left;
+    background-color: antiquewhite;
+    padding-top: 100px;
+    padding-left: 10px;
+    border-radius: 10px;
+    padding-right: 10px;
+
+}
+
+.image-bg{
+    margin: 60px;
+}
+
+.subscribe{
+    background-color: #2cda00;
+    margin: 0px 120px 20px 120px;
+    border-radius: 5px;
+}
+
+.subscribe-input{
+    display: flex;
+    justify-content: center;
+    
+    padding: 80px;
+    
+}
+
+/* Footer */
+.footer{
+    background-color: black;
+    height: 200px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
